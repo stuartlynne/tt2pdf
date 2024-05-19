@@ -32,9 +32,7 @@ Clone this repository and copy the tt2pdf.exe file to where you want it.
 
 The Start list is a table of the riders with their start times with the following columns:
 
-| --- | --- | --- | --- | --- | --- |
 | Stopwatch | Bib | LastName | FirstName | Notes/Delay | Start Time |
-| --- | --- | --- | --- | --- | --- |
 
 - Stopwatch is the stopwatch time that the rider should start.
 - Bib is the rider's bib number.
